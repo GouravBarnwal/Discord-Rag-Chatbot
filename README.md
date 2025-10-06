@@ -36,7 +36,7 @@ A smart Discord bot that showcases my professional background using Retrieval-Au
    CLIENT_ID=your_discord_client_id
    GUILD_ID=your_discord_server_id
    OLLAMA_BASE_URL=http://localhost:11434/api
-   OLLAMA_MODEL=phi3:mini
+   OLLAMA_MODEL=tinyllama
    ```
 
 4. Add your resume documents to the `./data` directory

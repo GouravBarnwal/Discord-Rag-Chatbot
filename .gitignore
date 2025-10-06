@@ -31,9 +31,10 @@ yarn-error.log*
 *.sln
 *.sw?
 
-# Data directory (if you want to exclude sample data)
+# Data directory (excluding resume.txt)
 data/*
 !data/.gitkeep
+!data/resume.txt
 
 # Ollama models
 .ollama/

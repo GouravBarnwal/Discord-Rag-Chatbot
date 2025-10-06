@@ -1,0 +1,18 @@
+NAME: Gourav Barnwal
+ROLE: Full Stack Developer / AIML Learner
+EMAIL: barnwalgourav547@gmail.com
+PHONE: +91 8809210035
+LOCATION: Dhanbad, Jharkhand
+
+WORK:
+- Software Developer Intern @ NIAMT (Jun-Jul 2025)
+  - Built attendance app with React, Flask, Firebase
+  - Added OTP login and payment integration
+
+SKILLS:
+- React, Node.js, Python
+- MongoDB, Firebase
+- Data Analysis, Machine Learning
+
+EDUCATION:
+- B.Tech CSE @ Ramgarh Engineering College (2022-2026)
