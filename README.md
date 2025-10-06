@@ -4,7 +4,7 @@ A smart Discord bot that showcases my professional background using Retrieval-Au
 
 ## ✨ Features
 
-- 🔍 RAG-powered responses using local LLM (phi3:mini)
+- 🔍 RAG-powered responses using local LLM (tinyllama)
 - 🤖 Discord slash commands for easy interaction
 - 📄 Processes and indexes resume data from documents
 - 🚀 Local AI processing with Ollama
@@ -13,7 +13,7 @@ A smart Discord bot that showcases my professional background using Retrieval-Au
 ## 🛠️ Tech Stack
 
 - **Backend**: Node.js, Discord.js
-- **AI/ML**: Ollama, phi3:mini
+- **AI/ML**: Ollama, tinyllama
 - **Search**: FAISS
 - **Environment**: dotenv
 
@@ -46,15 +46,5 @@ A smart Discord bot that showcases my professional background using Retrieval-Au
    node bot.js
    ```
 
-## 🤖 Usage
-
-- Use the `/ask` command in your Discord server to ask questions about my professional background
-- Example: `/ask What projects have you worked on?`
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Made with ❤️ by Gourav Barnwal | [Portfolio](https://gouravs-portfolio.vercel.app/)
